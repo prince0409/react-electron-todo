@@ -8,14 +8,6 @@
 
 <br>
 
-<div align="center">
-
-[![Build Status][github-actions-status]][github-actions-url]
-[![Github Tag][github-tag-image]][github-tag-url]
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/Fjy3vfgy5q)
-
-</div>
-
 ## Install
 
 Clone the repo and install dependencies:
@@ -35,9 +27,3 @@ To package apps for the local platform:
 ```bash
 npm run package
 ```
-
-## Sponsors
-
-<a href="https://palette.dev">
-  <img src=".erb/img/palette-sponsor-banner.svg" width="100%" />
-</a>
